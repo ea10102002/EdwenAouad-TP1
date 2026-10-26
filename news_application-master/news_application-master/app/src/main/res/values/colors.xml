@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern LBC/MTV Inspired Red & White Theme Colors -->
+    <color name="primaryColor">#D32F2F</color> <!-- Strong News Red -->
+    <color name="primaryLightColor">#FF6659</color>
+    <color name="primaryDarkColor">#9A0007</color>
+    <color name="secondaryColor">#212121</color> <!-- Dark Gray/Black for text and accents -->
+    <color name="primaryTextColor">#111111</color>
+    <color name="secondaryTextColor">#555555</color>
+    <color name="backgroundColor">#F5F5F5</color> <!-- Light gray background -->
+    <color name="surfaceColor">#FFFFFF</color>
+    <color name="errorColor">#B00020</color>
+
+    <!-- Legacy colors for existing screens -->
+    <color name="primary_text_color">#001a41</color>
+    <color name="secondary_text_color">#757575</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

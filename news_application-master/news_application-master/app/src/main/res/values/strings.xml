@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Live.LB</string>
+    <string name="news_page_name">News</string>
+    <string name="login_page_name">Login</string>
+    <string name="signup_page_name">Sign Up</string>
+    <string name="account_info_page_name">Account Info</string>
+    <string name="admin_dashboard_page_name">Admin Dashboard</string>
+    <string name="edit_user_info_page_name">Edit User Info</string>
+    <string name="user_info">User Info</string>
+    <string name="map">Map</string>
+    <string name="admin_dashboard">Admin Dashboard</string>
+
+    <!-- News Tabs -->
+    <string name="tab_lebanon">Lebanon</string>
+    <string name="tab_south">South Lebanon</string>
+    <string name="tab_international">International</string>
+</resources>

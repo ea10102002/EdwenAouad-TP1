@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أخبار لبنان</string>
+    <string name="news_page_name">الأخبار</string>
+    <string name="login_page_name">تسجيل الدخول</string>
+    <string name="signup_page_name">إنشاء حساب</string>
+    <string name="account_info_page_name">معلومات الحساب</string>
+    <string name="admin_dashboard_page_name">لوحة الإدارة</string>
+    <string name="edit_user_info_page_name">تعديل المعلومات</string>
+    <string name="user_info">معلومات المستخدم</string>
+    <string name="map">الخريطة</string>
+    <string name="admin_dashboard">إدارة</string>
+
+    <!-- News Tabs -->
+    <string name="tab_lebanon">لبنان</string>
+    <string name="tab_south">الجنوب</string>
+    <string name="tab_international">دولي</string>
+</resources>
